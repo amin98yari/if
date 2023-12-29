@@ -26,3 +26,10 @@ Algorithm: Print all four-digit palindromes
   - If a is equal to d and b is equal to c, then print i
   - Increase i by 1
 - End
+
+- 
+- *************************************************************************************
+
+- 
+- # flocharts:
+- ![alt text]([http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/If_Else_Flowchart.png/554px-If_Else_Flowchart.png)https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/If_Else_Flowchart.png/554px-If_Else_Flowchart.png)
