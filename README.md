@@ -34,3 +34,4 @@ Algorithm: Print all four-digit palindromes
 - # flocharts:
 
 ![Uploading 554px-If_Else_Flowchart.png…]()
+
