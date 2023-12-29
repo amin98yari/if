@@ -32,4 +32,7 @@ Algorithm: Print all four-digit palindromes
 
 - 
 - # flocharts:
-- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/If_Else_Flowchart.png/554px-If_Else_Flowchart.png
+
+- <a href="[https://www.youtube.com/watch?v=your-video-id](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/If_Else_Flowchart.png/554px-If_Else_Flowchart.png)https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/If_Else_Flowchart.png/554px-If_Else_Flowchart.png">
+  <img src="path-to-your-image.png" alt="Click me!" />
+</a>
