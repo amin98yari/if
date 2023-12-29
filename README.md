@@ -23,6 +23,6 @@ Algorithm: Print all four-digit palindromes
   - Set b to the remainder of i divided by 100, then divided by 10 (the tens digit of i)
   - Set c to the remainder of i divided by 1000, then divided by 100 (the hundreds digit of i)
   - Set d to i divided by 1000 (the thousands digit of i)
-  - If a is equal to d and b is equal to c, then display i
+  - If a is equal to d and b is equal to c, then print i
   - Increase i by 1
 - End
