@@ -32,4 +32,4 @@ Algorithm: Print all four-digit palindromes
 
 - 
 - # flocharts:
-- ![alt text]([http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/If_Else_Flowchart.png/554px-If_Else_Flowchart.png)https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/If_Else_Flowchart.png/554px-If_Else_Flowchart.png)
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/If_Else_Flowchart.png/554px-If_Else_Flowchart.png
